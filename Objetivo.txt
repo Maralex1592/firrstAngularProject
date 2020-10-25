@@ -1,0 +1,7 @@
+Objetivo:
+
+Crear un proyecto que
+
+Liste objetos o times sacandos de un api
+Agregarlos a un carrito de compras
+Parece facil pero no lo es
